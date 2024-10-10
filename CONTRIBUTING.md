@@ -48,7 +48,7 @@ When adding a new prompt engineering technique to the repository, please follow 
    - Place it in the appropriate category based on complexity and type.
    - Use the following format for the link:
      ```
-     ### [Number]. [Your Technique Name 🏷️](https://github.com/YourUsername/PromptEngineering/blob/main/all_prompt_engineering_techniques/your_file_name.ipynb)
+     ### [Number]. [Your Technique Name 🏷️](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/your_file_name.ipynb)
      ```
    - Replace `[Number]` with the appropriate number, `[Your Technique Name]` with your technique's name, and `your_file_name.ipynb` with the actual name of your notebook file.
    - Choose an appropriate emoji that represents your technique.
@@ -56,9 +56,9 @@ When adding a new prompt engineering technique to the repository, please follow 
 
 For example:
 ```
-1. [Intro-prompt-engineering-lesson 📝](https://github.com/YourUsername/PromptEngineering/blob/main/prompt_engineering_techniques/basic_prompt_construction.ipynb)
-2. [Your New Technique 🆕](https://github.com/YourUsername/PromptEngineering/blob/main/prompt_engineering_techniques/your_new_technique.ipynb)
-3. [Next Technique 🔜](https://github.com/YourUsername/PromptEngineering/blob/main/prompt_engineering_techniques/next_technique.ipynb)
+1. [Intro-prompt-engineering-lesson 📝](hhttps://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/basic_prompt_construction.ipynb)
+2. [Your New Technique 🆕](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/your_new_technique.ipynb)
+3. [Next Technique 🔜](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/next_technique.ipynb)
 ```
 
 Remember to increment the numbers of all techniques that come after your newly inserted implementation.
