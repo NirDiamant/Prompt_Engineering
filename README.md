@@ -24,9 +24,11 @@ Our goal is to provide a valuable resource for everyone - from beginners taking 
 
 Furthermore, this repository serves as a platform for showcasing innovative prompt engineering techniques. Whether you've developed a novel approach or found an innovative application for existing techniques, we encourage you to share your work with the community.
 
-📚 Explore my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to complement this advanced agent implementation with many other RAG techniques.
+## Related Projects
 
-🤖 Explore my **[GenAI Agents Repository](https://github.com/NirDiamant/GenAI_Agents)** to complement this advanced agent implementation with many other AI Agents implementations and tutorials.
+📚 Explore my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to learn how to enhance AI systems with external knowledge retrieval, complementing language model capabilities with rich, up-to-date information.
+
+🤖 Dive into my **[GenAI Agents Repository](https://github.com/NirDiamant/GenAI_Agents)** for a wide range of AI agent implementations and tutorials, from simple conversational bots to complex, multi-agent systems for various applications.
 
 ## A Community-Driven Knowledge Hub
 
