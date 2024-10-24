@@ -14,7 +14,9 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 
 Don't miss out on cutting-edge developments, new tutorials, and community insights!
 
-**[Subscribe to DiamantAI's Newsletter of Gen AI](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)**
+**[Subscribe to DiamantAI's top 1% AI-focused Newsletter](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)**
+
+[![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
 
 ## Introduction
 
