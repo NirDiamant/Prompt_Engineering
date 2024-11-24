@@ -12,9 +12,21 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 
 ## 📫 Stay Updated!
 
-Don't miss out on cutting-edge developments, new tutorials, and community insights!
+<div align="center">
+<table>
+<tr>
+<td align="center">🚀<br><b>Cutting-edge<br>Updates</b></td>
+<td align="center">💡<br><b>Expert<br>Insights</b></td>
+<td align="center">🎯<br><b>Top 1%<br>Content</b></td>
+</tr>
+</table>
 
-**[Subscribe to DiamantAI's top 1% AI-focused Newsletter](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)**
+<a href="https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist">
+<img src="https://img.shields.io/badge/Subscribe%20to%20DiamantAI%20Newsletter-4285F4?style=for-the-badge&logo=substack&logoColor=white" alt="Subscribe to Newsletter" />
+</a>
+
+*Join thousands of AI enthusiasts getting unique cutting edge insights!*
+</div>
 
 [![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
 
