@@ -47,7 +47,9 @@ If you want to go **deeper** with **full explanations, intuitive insights, and s
 - **Hands-on exercises** to sharpen your skills  
 - **Designed for learners who want a structured, guided approach**  
 
-👉 **[Get the book here](https://nirdiamant.gumroad.com/l/mtxrfk?_gl=1*pgq3ou*_ga*MTU1ODY4NzE3MC4xNzQwNDc5NzIw*_ga_6LJN6D94N6*MTc0MDUxNDk3Mi4zLjEuMTc0MDUxNzg1Ny4wLjAuMA..)**  
+💡 **Subscribers to the DiamantAI newsletter receive an exclusive discount on the book.**  
+
+👉 **[Get the full explained version here](https://nirdiamant.gumroad.com/l/mtxrfk?_gl=1*pgq3ou*_ga*MTU1ODY4NzE3MC4xNzQwNDc5NzIw*_ga_6LJN6D94N6*MTc0MDUxNDk3Mi4zLjEuMTc0MDUxNzg1Ny4wLjAuMA..)**  
 
 
 ## Related Projects
