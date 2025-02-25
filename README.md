@@ -36,6 +36,20 @@ Our goal is to provide a valuable resource for everyone - from beginners taking 
 
 Furthermore, this repository serves as a platform for showcasing innovative prompt engineering techniques. Whether you've developed a novel approach or found an innovative application for existing techniques, we encourage you to share your work with the community.
 
+## 📖 Get the Fully Explained Version of This Repo  
+
+This repository contains **22 hands-on Jupyter Notebook tutorials** covering **key prompt engineering techniques**.  
+If you want to go **deeper** with **full explanations, intuitive insights, and structured exercises**, check out the **expanded version in book format**:  
+
+📚 **Prompt Engineering from Zero to Hero**  
+- **All 22 techniques from this repo**, fully explained in depth  
+- **Step-by-step breakdowns** of key concepts & best practices  
+- **Hands-on exercises** to sharpen your skills  
+- **Designed for learners who want a structured, guided approach**  
+
+👉 **[Get the book here](https://nirdiamant.gumroad.com/l/mtxrfk?_gl=1*pgq3ou*_ga*MTU1ODY4NzE3MC4xNzQwNDc5NzIw*_ga_6LJN6D94N6*MTc0MDUxNDk3Mi4zLjEuMTc0MDUxNzg1Ny4wLjAuMA..)**  
+
+
 ## Related Projects
 
 📚 Explore my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to learn how to enhance AI systems with external knowledge retrieval, complementing language model capabilities with rich, up-to-date information.
