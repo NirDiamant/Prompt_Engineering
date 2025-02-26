@@ -42,10 +42,12 @@ This repository contains **22 hands-on Jupyter Notebook tutorials** covering **k
 If you want to go **deeper** with **full explanations, intuitive insights, and structured exercises**, check out the **expanded version in book format**:  
 
 📚 **Prompt Engineering from Zero to Hero**  
-- **All 22 techniques from this repo**, fully explained in depth  
-- **Step-by-step breakdowns** of key concepts & best practices  
-- **Hands-on exercises** to sharpen your skills  
-- **Designed for learners who want a structured, guided approach**  
+- 📖 **All 22 techniques from this repo**, fully explained in depth  
+- 🧠 **Step-by-step breakdowns** of key concepts & best practices  
+- 🏋️ **Hands-on exercises** to sharpen your skills  
+- 🎯 **Designed for learners who want a structured, guided approach**  
+- 📄 **Instant access to the PDF upon purchase**  
+- 📱 **Readable on any device – computer, tablet, or phone**  
 
 💡 **Subscribers to the DiamantAI newsletter receive an exclusive discount on the book.**  
 
