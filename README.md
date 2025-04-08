@@ -53,6 +53,8 @@ If you want to go **deeper** with **full explanations, intuitive insights, and s
 
 👉 **[Get the full explained version here](https://nirdiamant.gumroad.com/l/mtxrfk?_gl=1*pgq3ou*_ga*MTU1ODY4NzE3MC4xNzQwNDc5NzIw*_ga_6LJN6D94N6*MTc0MDUxNDk3Mi4zLjEuMTc0MDUxNzg1Ny4wLjAuMA..)**  
 
+![Prompt Engineering from Zero to Hero Book](images/book_image.jpeg)
+
 
 ## Related Projects
 
