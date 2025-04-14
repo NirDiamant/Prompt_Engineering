@@ -85,6 +85,31 @@ Whether you're a novice eager to learn or an expert ready to share your knowledg
 
 Explore our extensive list of prompt engineering techniques, ranging from basic to advanced:
 
+| # | Category | Technique | Description |
+|---|----------|-----------|-------------|
+| 1 | **Fundamental Concepts** | [Introduction to Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/intro-prompt-engineering-lesson.ipynb) | Comprehensive introduction to fundamental concepts of prompt engineering |
+| 2 | | [Basic Prompt Structures](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/basic-prompt-structures.ipynb) | Exploration of single-turn and multi-turn prompt structures |
+| 3 | | [Prompt Templates and Variables](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-templates-variables-jinja2.ipynb) | Creating and using prompt templates with variables |
+| 4 | **Core Techniques** | [Zero-Shot Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/zero-shot-prompting.ipynb) | Performing tasks without specific examples |
+| 5 | | [Few-Shot Learning](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/few-shot-learning.ipynb) | Learning from a small number of examples |
+| 6 | | [Chain of Thought (CoT)](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/cot-prompting.ipynb) | Step-by-step reasoning processes |
+| 7 | **Advanced Strategies** | [Self-Consistency](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/self-consistency.ipynb) | Multiple reasoning paths and result aggregation |
+| 8 | | [Constrained Generation](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/constrained-guided-generation.ipynb) | Setting up output constraints |
+| 9 | | [Role Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/role-prompting.ipynb) | Assigning specific roles to AI models |
+| 10 | **Advanced Implementations** | [Task Decomposition](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/task-decomposition-prompts.ipynb) | Breaking down complex tasks |
+| 11 | | [Prompt Chaining](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-chaining-sequencing.ipynb) | Connecting multiple prompts |
+| 12 | | [Instruction Engineering](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/instruction-engineering-notebook.ipynb) | Crafting clear instructions |
+| 13 | **Optimization** | [Prompt Optimization](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-optimization-techniques.ipynb) | A/B testing and refinement |
+| 14 | | [Handling Ambiguity](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/ambiguity-clarity.ipynb) | Resolving ambiguous prompts |
+| 15 | | [Length Management](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-length-complexity-management.ipynb) | Managing prompt complexity |
+| 16 | **Specialized Applications** | [Negative Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/negative-prompting.ipynb) | Avoiding undesired outputs |
+| 17 | | [Prompt Formatting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-formatting-structure.ipynb) | Various prompt formats |
+| 18 | | [Task-Specific Prompts](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/specific-task-prompts.ipynb) | Prompts for specific tasks |
+| 19 | **Advanced Applications** | [Multilingual Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/multilingual-prompting.ipynb) | Cross-lingual techniques |
+| 20 | | [Ethical Considerations](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/ethical-prompt-engineering.ipynb) | Bias avoidance and inclusivity |
+| 21 | | [Prompt Security](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-security-and-safety.ipynb) | Preventing injections |
+| 22 | | [Effectiveness Evaluation](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/evaluating-prompt-effectiveness.ipynb) | Evaluating prompt performance |
+
 ### 🌱 Fundamental Concepts
 
 1. **[Introduction to Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/intro-prompt-engineering-lesson.ipynb)**
