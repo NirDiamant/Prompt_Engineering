@@ -57,6 +57,8 @@ If you want to go **deeper** with **full explanations, intuitive insights, and s
 
 ## Related Projects
 
+🚀 Level up with my **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** repository. It delivers horizontal, code-first tutorials that cover every tool and step in the lifecycle of building production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches, making it the smartest place to start if you're serious about shipping agents to production.
+
 📚 Explore my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to learn how to enhance AI systems with external knowledge retrieval, complementing language model capabilities with rich, up-to-date information.
 
 🤖 Dive into my **[GenAI Agents Repository](https://github.com/NirDiamant/GenAI_Agents)** for a wide range of AI agent implementations and tutorials, from simple conversational bots to complex, multi-agent systems for various applications.
