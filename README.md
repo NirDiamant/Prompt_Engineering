@@ -10,6 +10,14 @@
 
 Welcome to one of the most extensive and dynamic collections of Prompt Engineering tutorials and implementations available today. This repository serves as a comprehensive resource for learning, building, and sharing prompt engineering techniques, ranging from basic concepts to advanced strategies for leveraging large language models.
 
+## 🎯 Sponsors
+
+<div align="center">
+
+<a href="https://coderabbit.link/nir"><img src="images/coderabbit_Dark_Type_Mark.png" width="20%" height="20%" alt="Coderabbit"></a>
+
+</div>
+
 ## 📫 Stay Updated!
 
 <div align="center">
