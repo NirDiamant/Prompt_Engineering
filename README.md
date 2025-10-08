@@ -14,7 +14,12 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 
 <div align="center">
 
-<a href="https://coderabbit.link/nir"><img src="images/coderabbit_Dark_Type_Mark.png" width="20%" height="20%" alt="Coderabbit"></a>
+<a href="https://coderabbit.link/nir">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/coderabbit_Light_Type_Mark_Orange.png">
+    <img src="images/coderabbit_Dark_Type_Mark.png" width="20%" height="20%" alt="Coderabbit">
+  </picture>
+</a>
 
 </div>
 
