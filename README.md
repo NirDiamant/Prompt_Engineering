@@ -23,6 +23,17 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 
 </div>
 
+<div align="center">
+
+<a href="https://www.igpt.ai/?utm_source=nir_diamant">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/iGPT-logo-white.png">
+  <img src="images/iGPT-logo-Black.png" width="20%" height="20%" alt="iGPT">
+</picture>
+</a>
+
+</div>
+
 ## 📫 Stay Updated!
 
 <div align="center">
