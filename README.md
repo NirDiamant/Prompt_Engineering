@@ -17,7 +17,7 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 <a href="https://coderabbit.link/nir">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/coderabbit_Dark_Type_Mark.png">
-    <img src="images/coderabbit_Light_Type_Mark_Orange.png" width="20%" height="20%" alt="Coderabbit">
+    <img src="images/coderabbit_Light_Type_Mark_Orange.png" height="60" alt="Coderabbit">
   </picture>
 </a>
 
@@ -28,9 +28,15 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 <a href="https://www.igpt.ai/?utm_source=nir_diamant">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/iGPT-logo-white.png">
-  <img src="images/iGPT-logo-Black.png" width="20%" height="20%" alt="iGPT">
+  <img src="images/iGPT-logo-Black.png" height="60" alt="iGPT">
 </picture>
 </a>
+
+</div>
+
+<div align="center">
+
+<a href="https://www.igpt.ai/?utm_source=nir_diamant">iGPT is onboarding in batches. Join the waitlist to reserve your spot.</a>
 
 </div>
 
