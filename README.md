@@ -36,7 +36,7 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 
 <div align="center">
 
-<a href="https://www.igpt.ai/?utm_source=nir_diamant">iGPT is onboarding in batches. Join the waitlist to reserve your spot.</a>
+<small><em>iGPT is onboarding in batches — click the logo to join the waitlist.</em></small>
 
 </div>
 
