@@ -317,6 +317,13 @@ Explore our extensive list of prompt engineering techniques, ranging from basic 
     #### Implementation 🛠️
     Covers setting up evaluation metrics, implementing manual and automated evaluation techniques, and providing practical examples using OpenAI and LangChain.
 
+## Prompt Engineering Tools
+
+| # | Tool | Link | Description |
+|---|----------|-----------|-------------|
+| 1 | **God Tier Prompts** | [God Tier Prompts](https://www.godtierprompts.com) | AI Prompt leaderboard. Discover the best of best prompts. |
+
+
 ## Getting Started
 
 To begin exploring and implementing prompt engineering techniques:
