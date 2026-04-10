@@ -162,3 +162,16 @@ cython_debug/
 #.idea/
 
 *.yml
+
+# Additional common ignores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.env.local
+*.env
