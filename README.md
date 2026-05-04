@@ -145,6 +145,7 @@ Explore our extensive list of prompt engineering techniques, ranging from basic 
 | 20 | 🌍 **Advanced Applications** | [Ethical Considerations](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/ethical-prompt-engineering.ipynb) | Bias avoidance and inclusivity |
 | 21 | 🌍 **Advanced Applications** | [Prompt Security](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-security-and-safety.ipynb) | Preventing injections |
 | 22 | 🌍 **Advanced Applications** | [Effectiveness Evaluation](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/evaluating-prompt-effectiveness.ipynb) | Evaluating prompt performance |
+| 23 | 🌍 **Advanced Applications** | [Multi-Provider Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/multi-provider-prompting.ipynb) | Using and comparing multiple LLM providers (OpenAI, MiniMax) |
 
 ### 🌱 Fundamental Concepts
 
@@ -329,12 +330,20 @@ Explore our extensive list of prompt engineering techniques, ranging from basic 
     Covers techniques for prompt injection prevention, content filtering implementation, and testing the effectiveness of security and safety measures.
 
 22. **[Evaluating Prompt Effectiveness](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/evaluating-prompt-effectiveness.ipynb)**
-    
+
     #### Overview 🔎
     Explores methods and techniques for evaluating the effectiveness of prompts in AI language models.
 
     #### Implementation 🛠️
     Covers setting up evaluation metrics, implementing manual and automated evaluation techniques, and providing practical examples using OpenAI and LangChain.
+
+23. **[Multi-Provider Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/multi-provider-prompting.ipynb)**
+
+    #### Overview 🔎
+    Demonstrates how to use multiple LLM providers (OpenAI, MiniMax) with the same prompt engineering techniques, enabling provider comparison and avoiding vendor lock-in.
+
+    #### Implementation 🛠️
+    Covers the `utils/llm_provider.py` helper for multi-provider support, side-by-side provider comparison for zero-shot/few-shot/CoT prompts, auto-detection via environment variables, and using MiniMax M2.5/M2.7 models through an OpenAI-compatible API.
 
 ## Getting Started
 
