@@ -13,14 +13,15 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 
 <div align="center">
 
-## 📖 From the Same Author
+## 📖 Companion book by the same author
 
-<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-amazon-image&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-pe-20&text=Best%20Seller%20Image"><img src="images/rag_book_best_seller.png" alt="#1 Best Seller in Generative AI on Amazon - Click to buy" width="500"></a>
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-amazon-image&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-pe-20&text=Best%20Seller%20Image"><img src="images/rag_book_best_seller.png" alt="RAG Made Simple - Amazon bestseller in Generative AI" width="500"></a>
 
-**[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-amazon-title&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-pe-20&text=RAG%20Made%20Simple)** — **#1 Best Seller on Amazon in Generative AI.**
-22 RAG techniques with intuition, comparisons, and illustrations. **Free with Kindle Unlimited** or **$0.99** launch price (goes up soon).
+**[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-amazon-title&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-pe-20&text=RAG%20Made%20Simple)** - the production reference for RAG systems, built with the prompting techniques you learn in this repo.
+*1,500+ copies sold · Hit #1 in Generative AI on Amazon at launch · ⭐ 4.4 stars*
+**Kindle $9.99 · Paperback $24.99 · Free with Kindle Unlimited**
 
-### 👉 [**Get the book on Amazon**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-amazon-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-pe-20&text=Get%20the%20book%20on%20Amazon)
+### 👉 [**Get RAG Made Simple on Amazon**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-amazon-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-pe-20&text=Get%20RAG%20Made%20Simple)
 
 </div>
 
@@ -84,8 +85,6 @@ Our goal is to provide a valuable resource for everyone - from beginners taking 
 Furthermore, this repository serves as a platform for showcasing innovative prompt engineering techniques. Whether you've developed a novel approach or found an innovative application for existing techniques, we encourage you to share your work with the community.
 
 ## 📖 Get the Fully Explained Version of This Repo
-
-> 🔥 **THIS WEEK ONLY (April 15-21)**: The Kindle edition is on a Kindle Countdown Deal at **$2.99**. Grab it now: [**Get Prompt Engineering at countdown pricing**](https://www.amazon.com/dp/B0DZ85RPB5?tag=diamantai-pe-20)
 
 This repository contains **22 hands-on Jupyter Notebook tutorials** covering **key prompt engineering techniques**.
 If you want to go **deeper** with **full explanations, intuitive insights, and structured exercises**, check out the **expanded version in book format**:
