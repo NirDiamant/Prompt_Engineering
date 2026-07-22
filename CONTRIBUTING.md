@@ -56,7 +56,7 @@ When adding a new prompt engineering technique to the repository, please follow 
 
 For example:
 ```
-1. [Intro-prompt-engineering-lesson 📝](hhttps://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/basic_prompt_construction.ipynb)
+1. [Intro-prompt-engineering-lesson 📝](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/basic_prompt_construction.ipynb)
 2. [Your New Technique 🆕](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/your_new_technique.ipynb)
 3. [Next Technique 🔜](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/next_technique.ipynb)
 ```
