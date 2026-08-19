@@ -42,6 +42,10 @@ One `npm install` adds the module's AI assistant to your Claude Code, and it gui
     <img src="images/coderabbit_Light_Type_Mark_Orange.png" height="60" alt="Coderabbit">
   </picture>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.qodo.ai/?utm_source=diamantai&utm_medium=github&utm_campaign=prompt-engineering&utm_content=readme-sponsor">
+  <img src="images/qodo-logo.svg" height="60" alt="Qodo">
+</a>
 
 </div>
 
