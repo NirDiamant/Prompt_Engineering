@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Prompt Engineering: Techniques, Implementations and Evaluation"
+version: "1.0.0"
+date-released: "2024-10-10"
+authors:
+  - family-names: "Diamant"
+    given-names: "Nir"
+repository-code: "https://github.com/NirDiamant/Prompt_Engineering"
+url: "https://github.com/NirDiamant/Prompt_Engineering"
+abstract: >-
+  A collection of 22 runnable Jupyter notebooks teaching prompt
+  engineering, from basic prompt structures and role prompting through
+  chain-of-thought, self-consistency, task decomposition, constrained
+  generation, prompt security and systematic prompt evaluation. Each
+  notebook demonstrates the model's output with and without the technique.
+keywords:
+  - prompt-engineering
+  - chain-of-thought
+  - few-shot-learning
+  - in-context-learning
+  - llm
+  - prompt-injection
+  - generative-ai
+  - tutorials
+license: LicenseRef-Custom-NonCommercial

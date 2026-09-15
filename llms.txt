@@ -1,0 +1,53 @@
+# Prompt Engineering
+
+> A collection of 22 runnable Jupyter notebooks teaching prompt engineering, from basic prompt structure and role prompting through chain-of-thought, self-consistency, task decomposition, prompt security and systematic evaluation. Each notebook explains one technique, implements it, and shows the difference it makes to the model's output. This is a teaching repository rather than a library, so there is no package to install. Authored by Nir Diamant. Licensed under a custom non-commercial license.
+
+## Core Documents
+
+- [README](https://github.com/NirDiamant/Prompt_Engineering/blob/main/README.md): Overview, the full technique index and quick start.
+- [CONTRIBUTING](https://github.com/NirDiamant/Prompt_Engineering/blob/main/CONTRIBUTING.md): How to add a technique and the pull request checklist.
+- [AGENTS](https://github.com/NirDiamant/Prompt_Engineering/blob/main/AGENTS.md): Repository conventions for AI coding agents.
+- [LICENSE](https://github.com/NirDiamant/Prompt_Engineering/blob/main/LICENSE): Custom non-commercial license. Read before any commercial reuse.
+
+## Fundamentals
+
+- [Introduction to Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/intro-prompt-engineering-lesson.ipynb): What prompt engineering is and why output changes with phrasing.
+- [Basic Prompt Structures](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/basic-prompt-structures.ipynb): Single-turn and multi-turn prompt shapes.
+- [Prompt Formatting and Structure](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-formatting-structure.ipynb): Delimiters, sections and layout, and how they change parsing.
+- [Prompt Templates and Variables with Jinja2](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-templates-variables-jinja2.ipynb): Parameterizing prompts for reuse.
+- [Instruction Engineering](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/instruction-engineering-notebook.ipynb): Writing instructions the model actually follows.
+
+## Core Techniques
+
+- [Zero-Shot Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/zero-shot-prompting.ipynb): Getting results with no examples.
+- [Few-Shot Learning](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/few-shot-learning.ipynb): In-context examples, and how example choice and order matter.
+- [Role Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/role-prompting.ipynb): Assigning a persona or expertise to shape output.
+- [Chain-of-Thought Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/cot-prompting.ipynb): Making the model reason step by step before answering.
+- [Self-Consistency](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/self-consistency.ipynb): Sample several reasoning paths and take the majority answer.
+- [Constrained and Guided Generation](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/constrained-guided-generation.ipynb): Forcing output into a required shape or schema.
+- [Negative Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/negative-prompting.ipynb): Specifying what the model must not do.
+
+## Advanced Strategies
+
+- [Task Decomposition](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/task-decomposition-prompts.ipynb): Breaking a hard task into tractable sub-prompts.
+- [Prompt Chaining and Sequencing](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-chaining-sequencing.ipynb): Feeding one prompt's output into the next.
+- [Specific Task Prompts](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/specific-task-prompts.ipynb): Prompt patterns for summarization, extraction, classification and more.
+- [Multilingual Prompting](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/multilingual-prompting.ipynb): Prompting across languages, and where it degrades.
+- [Ambiguity and Clarity](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/ambiguity-clarity.ipynb): Finding and removing the ambiguity that causes wrong answers.
+- [Prompt Length and Complexity Management](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-length-complexity-management.ipynb): Working within a context budget.
+
+## Evaluation, Optimization and Safety
+
+- [Evaluating Prompt Effectiveness](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/evaluating-prompt-effectiveness.ipynb): Measuring whether a prompt is actually better.
+- [Prompt Optimization Techniques](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-optimization-techniques.ipynb): Systematic iteration, A/B comparison and refinement.
+- [Prompt Security and Safety](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/prompt-security-and-safety.ipynb): Prompt injection, jailbreaks and defenses.
+- [Ethical Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/ethical-prompt-engineering.ipynb): Bias, fairness and responsible prompting.
+
+## Related work by the same author
+
+- [GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents): 59 notebooks implementing GenAI agents.
+- [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques): 41 notebooks on Retrieval-Augmented Generation.
+- [agents-towards-production](https://github.com/NirDiamant/agents-towards-production): Taking agents from prototype to deployed product.
+- [Course, Prompt to Production](https://diamant-ai.com/courses): Building software with AI, taught systematically.
+- [Newsletter](https://newsletter.diamant-ai.com): Weekly deep dives on GenAI engineering.
+- [Community Discord](https://discord.gg/cA6Aa4uyDX): Questions, contributions and discussion.
