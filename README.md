@@ -373,7 +373,7 @@ To begin exploring and implementing prompt engineering techniques:
 
 ## 📚 More from the same author
 
-**[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-gumroad-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=book-buy-gumroad-rag-cta)** - the 400-page visual guide to RAG, the retrieval layer behind advanced agents. 33% off with code RAGKING.
+**[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-footer-rag&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0GWDH8JJL&retarget=0&text=book-footer-rag)** - the 400-page visual guide to RAG, the retrieval layer behind advanced agents.
 
 **[Agent Memory Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-footer-am&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HCRMGHCM&retarget=0&text=book-footer-am)** - a visual guide to how AI agents remember: buffers, vector and graph memory, cognitive architectures and the frameworks in production.
 
