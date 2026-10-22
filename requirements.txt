@@ -83,7 +83,7 @@ tenacity==8.5.0
 threadpoolctl==3.5.0
 tiktoken==0.8.0
 tokenizers==0.20.0
-torch==2.4.1
+torch==2.13.0
 tornado==6.4.1
 tqdm==4.66.5
 traitlets==5.14.3
