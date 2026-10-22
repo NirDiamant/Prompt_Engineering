@@ -10,21 +10,15 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 
 > **22 hands-on tutorials** covering everything from basic prompt templates to advanced techniques like chain-of-thought, self-consistency, and tree-of-thought prompting.
 
-<h2 align="center">🎓 From prompts to production</h2>
+## 📖 The book version of this repo
 
 <div align="center">
 
-**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=course-free-module-cta&target=https%3A%2F%2Fwww.diamant-ai.com%2Fcourses%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dprompt-engineering&retarget=0&text=course-free-module-cta)** - my full course on building software with AI the way professionals do: the methods and paradigms behind reliable, efficient, modular production systems, taught systematically. 17 modules, each pairing a video lecture with a hands-on lab, from your first structured prompt to a working production system.
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&amp;click=book-card-pe-image&amp;target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ85RPB5&amp;retarget=0&amp;text=book-card-pe-image"><img src="images/prompt-engineering-cover.jpg" alt="Prompt Engineering: Master the Art of AI Interaction book cover" width="180"></a>
 
-**$199 · one payment · lifetime access · 30-day refund, no questions**<br>
-<sub>$99 in India, Pakistan, Bangladesh, Sri Lanka and Nepal, applied at checkout.</sub>
+**Prompt Engineering: Master the Art of AI Interaction** - all 22 techniques from this repo, fully explained with step-by-step breakdowns and hands-on exercises.
 
-> "I went through the module and I like that you explicitly separate advisory rules from rules that become executable through hooks, tests or CI."<br>
-> **Theo Valmis, Mneme HQ**
-
-### 👉 [**Get the course: $199**](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=course-buy-top&target=https%3A%2F%2Fdiamant-ai.com%2Fbuy%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dprompt-engineering%26utm_content%3Dreadme-buy&retarget=0&text=course-buy-top)
-
-Not ready? [Try the first module free, no signup](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=course-free-module-direct&target=https%3A%2F%2Fp2p-course.diamant-ai.com%2Flectures%2F00-present%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dprompt-engineering-direct&retarget=0&text=course-free-module-direct) · Expensing it? [The note for your manager](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=course-expense&target=https%3A%2F%2Fp2p-course.diamant-ai.com%2Fexpense%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dprompt-engineering%26utm_content%3Dreadme-expense&retarget=0&text=course-expense)
+**[Get it on Amazon (Kindle · paperback) →](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-card-pe-cta&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ85RPB5&retarget=0&text=book-card-pe-cta)**
 
 </div>
 
@@ -58,7 +52,7 @@ Not ready? [Try the first module free, no signup](https://europe-west1-rag-techn
 
 [![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://newsletter.diamant-ai.com/?r=336pe4&utm_campaign=pub-share-checklist)
 
-*Join over 50,000 AI enthusiasts getting unique cutting-edge insights and free tutorials!* ***Plus, subscribers get exclusive early access and special discounts to our upcoming RAG Techniques course!***
+*Join over 50,000 AI enthusiasts getting unique cutting-edge insights and free tutorials!* ***Plus, subscribers get exclusive early access and special discounts on my books!***
 </div>
 
 [![DiamantAI's newsletter](images/substack_image.png)](https://newsletter.diamant-ai.com/?r=336pe4&utm_campaign=pub-share-checklist)
@@ -106,12 +100,6 @@ Prompt engineering is at the forefront of artificial intelligence, revolutionizi
 Our goal is to provide a valuable resource for everyone - from beginners taking their first steps in AI to seasoned practitioners pushing the boundaries of what's possible. By offering a range of examples from foundational to complex, we aim to facilitate learning, experimentation, and innovation in the rapidly evolving field of prompt engineering.
 
 Furthermore, this repository serves as a platform for showcasing innovative prompt engineering techniques. Whether you've developed a novel approach or found an innovative application for existing techniques, we encourage you to share your work with the community.
-
-## 📖 The book version of this repo
-
-**[Prompt Engineering from Zero to Hero](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-pe-gumroad&target=https%3A%2F%2Fnirdiamant.gumroad.com%2Fl%2Fmtxrfk&retarget=0&text=book-buy-pe-gumroad)** - all 22 techniques from this repo, fully explained with step-by-step breakdowns and hands-on exercises.
-
-[Amazon Kindle - $9.99](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-pe-kindle&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ85RPB5&retarget=0&text=book-buy-pe-kindle) · [Paperback](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-pe-paper&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DZ9RVKMJ&retarget=0&text=book-buy-pe-paper) · [Gumroad PDF](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-pe-gumroad&target=https%3A%2F%2Fnirdiamant.gumroad.com%2Fl%2Fmtxrfk&retarget=0&text=book-buy-pe-gumroad)
 
 ## Related Projects
 
@@ -386,6 +374,10 @@ To begin exploring and implementing prompt engineering techniques:
 ## 📚 More from the same author
 
 **[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-buy-gumroad-rag-cta&target=https%3A%2F%2Fdiamant-ai.com%2Frag-made-simple%3Fcode%3DRAGKING&retarget=0&text=book-buy-gumroad-rag-cta)** - the 400-page visual guide to RAG, the retrieval layer behind advanced agents. 33% off with code RAGKING.
+
+**[Agent Memory Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-footer-am&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HCRMGHCM&retarget=0&text=book-footer-am)** - a visual guide to how AI agents remember: buffers, vector and graph memory, cognitive architectures and the frameworks in production.
+
+**[AI Agents Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-footer-agents&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0HNXRSRH2&retarget=0&text=book-footer-agents)** - the decision guide to building agents that work: 28 chapters on what each pattern does, what breaks, what it costs, and when it is overkill. No code.
 
 *Run a course, newsletter, or dev community? You can [earn 25% recommending the books](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=affiliate-signup&target=https%3A%2F%2Fnirdiamant.gumroad.com%2Faffiliates&retarget=0&text=affiliate-signup) to your audience.*
 
