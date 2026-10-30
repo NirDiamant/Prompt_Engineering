@@ -28,6 +28,7 @@ It is a **teaching repository, not a library.** There is no package to install. 
 - **Show the contrast.** A prompting technique is only taught if the notebook shows the output without it and with it. Asserting that a technique helps, without demonstrating it, does not belong here.
 - **Explain before you implement.** Motivation and intuition first, then code.
 - **API keys come from the environment**, never hardcoded.
+- **Name the model once.** Each notebook sets `MODEL` in its first code cell, so the next model retirement is a one-line change. CI (`.github/workflows/notebook-smoke.yml`) compiles every notebook on each push and pull request; it does not call any API.
 - **Clear outputs that embed secrets** before committing. Keep model outputs that demonstrate the technique, since they are the lesson.
 - Read `CONTRIBUTING.md` before opening a pull request. It supersedes this file where they differ.
 
