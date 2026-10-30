@@ -1,0 +1,71 @@
+# Catches notebooks that no longer parse as Python (bad merges, broken edits).
+# It compiles every notebook's code cells in order and every .py file.
+# No API keys, no network calls, nothing is executed.
+name: Notebook smoke test
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install nbformat
+        run: pip install "nbformat>=5.10,<6"
+
+      - name: Compile every notebook and .py file
+        shell: python
+        run: |
+          import pathlib, py_compile, sys
+          import nbformat
+
+          root = pathlib.Path(".")
+          skip = {".git", ".venv", "venv", "node_modules", ".ipynb_checkpoints"}
+          failures = []
+
+          def wanted(path):
+              return not any(part in skip for part in path.parts)
+
+          notebooks = sorted(p for p in root.rglob("*.ipynb") if wanted(p))
+          for path in notebooks:
+              try:
+                  nb = nbformat.read(str(path), as_version=4)
+                  cells = []
+                  for cell in nb.cells:
+                      if cell.cell_type != "code":
+                          continue
+                      # A cell magic such as %%bash makes the whole cell non-Python; skip it.
+                      if cell.source.lstrip().startswith("%%"):
+                          continue
+                      # IPython line magics and shell escapes are not Python; drop them.
+                      lines = [
+                          line for line in cell.source.splitlines()
+                          if not line.lstrip().startswith(("%", "!"))
+                      ]
+                      cells.append("\n".join(lines))
+                  compile("\n\n".join(cells), str(path), "exec")
+              except Exception as exc:
+                  failures.append(f"{path}: {type(exc).__name__}: {exc}")
+
+          scripts = sorted(p for p in root.rglob("*.py") if wanted(p))
+          for path in scripts:
+              try:
+                  py_compile.compile(str(path), doraise=True)
+              except py_compile.PyCompileError as exc:
+                  failures.append(f"{path}: {exc.msg}")
+
+          print(f"Checked {len(notebooks)} notebooks and {len(scripts)} .py files.")
+          if failures:
+              print("\n".join(failures))
+              sys.exit(1)

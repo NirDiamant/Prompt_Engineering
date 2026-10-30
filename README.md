@@ -363,11 +363,17 @@ To begin exploring and implementing prompt engineering techniques:
    ```
    git clone https://github.com/NirDiamant/Prompt_Engineering.git
    ```
-2. Navigate to the technique you're interested in:
+2. Install the dependencies (tested on Python 3.11) and set your OpenAI API key:
+   ```
+   pip install -r requirements.txt
+   export OPENAI_API_KEY="your-key"
+   ```
+   The notebooks call `gpt-5.4-mini`, and `gpt-5.4` in the two places that used a larger model. Each notebook names its model once, as `MODEL` in its first code cell.
+3. Navigate to the technique you're interested in:
    ```
    cd all_prompt_engineering_techniques
    ```
-3. Follow the detailed implementation guide in each technique's notebook.
+4. Follow the detailed implementation guide in each technique's notebook.
 
 ## 📚 Recommended reading
 
@@ -381,7 +387,7 @@ To begin exploring and implementing prompt engineering techniques:
 
 ---
 
-## 📚 More from the same author
+## 📚 More from DiamantAI
 
 **[RAG Made Simple](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=book-footer-rag&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0GWDH8JJL&retarget=0&text=book-footer-rag)** - the 400-page visual guide to RAG, the retrieval layer behind advanced agents.
 
@@ -392,6 +398,10 @@ To begin exploring and implementing prompt engineering techniques:
 *To hear when the next book comes out, [follow the author on Amazon](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=author-follow-amazon&target=https%3A%2F%2Fwww.amazon.com%2Fstores%2FNir-Diamant%2Fauthor%2FB0DZMTVQHJ&retarget=0&text=author-follow-amazon).*
 
 *Run a course, newsletter, or dev community? You can [earn 25% recommending the books](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=affiliate-signup&target=https%3A%2F%2Fnirdiamant.gumroad.com%2Faffiliates&retarget=0&text=affiliate-signup) to your audience.*
+
+**More repos:** [RAG Techniques](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=footer-rag-techniques&target=https%3A%2F%2Fgithub.com%2FNirDiamant%2FRAG_Techniques&retarget=0&text=footer-rag-techniques) · [GenAI Agents](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=footer-genai-agents&target=https%3A%2F%2Fgithub.com%2FNirDiamant%2FGenAI_Agents&retarget=0&text=footer-genai-agents) · [Agents Towards Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=footer-agents-towards-production&target=https%3A%2F%2Fgithub.com%2FNirDiamant%2Fagents-towards-production&retarget=0&text=footer-agents-towards-production) · [Agent Memory Techniques](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=footer-agent-memory-techniques&target=https%3A%2F%2Fgithub.com%2FNirDiamant%2FAgent_Memory_Techniques&retarget=0&text=footer-agent-memory-techniques)
+
+**Follow DiamantAI:** [Newsletter](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=footer-newsletter&target=https%3A%2F%2Fnewsletter.diamant-ai.com&retarget=0&text=footer-newsletter) · [YouTube](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=footer-youtube&target=https%3A%2F%2Fwww.youtube.com%2F%40DiamantAI&retarget=0&text=footer-youtube) · [Discord](https://discord.gg/cA6Aa4uyDX) · [Website](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=footer-website&target=https%3A%2F%2Fdiamant-ai.com&retarget=0&text=footer-website) · [Courses](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=footer-course&target=https%3A%2F%2Fdiamant-ai.com%2Fcourses&retarget=0&text=footer-course)
 
 ## Contributing
 
