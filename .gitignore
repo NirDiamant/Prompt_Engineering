@@ -162,6 +162,8 @@ cython_debug/
 #.idea/
 
 *.yml
+# ...but keep GitHub config (Actions workflows, Dependabot)
+!.github/**/*.yml
 
 # Additional common ignores
 .vscode/
