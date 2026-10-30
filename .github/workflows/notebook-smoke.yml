@@ -45,7 +45,10 @@ jobs:
                   for cell in nb.cells:
                       if cell.cell_type != "code":
                           continue
-                      # IPython magics and shell escapes are not Python; drop them.
+                      # A cell magic such as %%bash makes the whole cell non-Python; skip it.
+                      if cell.source.lstrip().startswith("%%"):
+                          continue
+                      # IPython line magics and shell escapes are not Python; drop them.
                       lines = [
                           line for line in cell.source.splitlines()
                           if not line.lstrip().startswith(("%", "!"))
