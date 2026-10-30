@@ -8,6 +8,9 @@ updates:
     schedule:
       interval: "monthly"
     open-pull-requests-limit: 5
+    # requirements.txt lists ranges (">=tested,<next major"). Only propose a change
+    # when a release falls outside its range, i.e. a new major version.
+    versioning-strategy: increase-if-necessary
     labels:
       - "dependencies"
     groups:
