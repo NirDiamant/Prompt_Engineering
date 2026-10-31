@@ -45,12 +45,17 @@ jobs:
                   for cell in nb.cells:
                       if cell.cell_type != "code":
                           continue
-                      # A cell magic such as %%bash makes the whole cell non-Python; skip it.
-                      if cell.source.lstrip().startswith("%%"):
-                          continue
+                      body = cell.source.lstrip().splitlines()
+                      if body and body[0].startswith("%%"):
+                          magic = (body[0][2:].split() or [""])[0]
+                          # %%bash, %%writefile and the like are not Python; skip them.
+                          if magic not in {"capture", "time", "timeit", "prun"}:
+                              continue
+                          # These wrap ordinary Python, so check the body.
+                          body = body[1:]
                       # IPython line magics and shell escapes are not Python; drop them.
                       lines = [
-                          line for line in cell.source.splitlines()
+                          line for line in body
                           if not line.lstrip().startswith(("%", "!"))
                       ]
                       cells.append("\n".join(lines))
